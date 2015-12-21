@@ -1,0 +1,10 @@
+\.orig$
+\.orig\..*$
+\.chg\..*$
+\.rej$
+\.conflict\~$
+^assets$
+^files$
+^nbproject$
+^protected/runtime
+syntax: glob
